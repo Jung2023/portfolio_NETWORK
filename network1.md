@@ -2,7 +2,7 @@
 
 보안 시스템 통합 구축 및 DDoS 공격 탐지 프로젝트
 
-![Image](https://github.com/user-attachments/assets/781aa068-34fc-4a6c-a8c0-250b354cde86)
+![network-security-lab정보시스템구축추가완료](https://github.com/user-attachments/assets/061668c0-7096-4341-aa65-15fad16d421c)
 ---
 
 ### OSSEC

@@ -7,4 +7,4 @@
 
 
 - Network2
-![Image](https://github.com/user-attachments/assets/3454b6db-1962-400d-9620-32073736f2ad)
+[![Image](https://github.com/user-attachments/assets/3454b6db-1962-400d-9620-32073736f2ad)](https://github.com/Jung2023/portfolio_NETWORK/blob/main/network2.md)

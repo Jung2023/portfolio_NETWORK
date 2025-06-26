@@ -1,7 +1,7 @@
 ### 📌 프로젝트 개요
 네트워크 환경에서 보안을 설계하고 실습한 프로젝트
 
-![Image](https://github.com/user-attachments/assets/3454b6db-1962-400d-9620-32073736f2ad)
+![networksecurity-portfolio-202502](https://github.com/user-attachments/assets/825d3b21-a526-4561-bc97-03d075f41691)
 ---
 
 ### 네트워크 및 보안 인프라 구축

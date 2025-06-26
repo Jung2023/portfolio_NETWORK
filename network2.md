@@ -3,6 +3,12 @@
 
 ---
 
+### 📷 프로젝트 구성도
+
+![Image](https://github.com/user-attachments/assets/3454b6db-1962-400d-9620-32073736f2ad)
+
+---
+
 ### 네트워크 및 보안 인프라 구축
 
 - **Cisco ASAv 방화벽 설정**
@@ -32,12 +38,6 @@
 - Cisco ASAv, pfSense, OpenVPN, HSRP
 - Snort, Suricata, OSSEC
 - Zabbix, Ubuntu, Rocky, Windows10
-
----
-
-### 📷 프로젝트 구성도
-
-![Image](https://github.com/user-attachments/assets/3454b6db-1962-400d-9620-32073736f2ad)
 
 ---
 
